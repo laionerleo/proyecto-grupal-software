@@ -32,7 +32,7 @@
 					<div id="header" class="skel-panels-fixed">
 						<div id="logo">
 							<h1><a href="">LENGUAJE DE SEÑAS</a></h1>
-							<span class="">LEONARDO</span>
+							<span class="">LEONARDOoooooooooo</span>
 						</div>
 						
 					</div>
